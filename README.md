@@ -4,7 +4,6 @@
 <h6> Trabalho com em desenvolvimento Frontend e atualmente estou estudando os frameworks Angular , React ,J.S , C#. </p> 
 
 🌱 Eu estou aprendendo **Angular, React, J.S , C#** 
- ⚡ 📫 Conheça um pouco mais do meu perfil visitando meu Linkedin: 
 
 <h5> Minhas Linguagens <h5>   
   <p align="left">
