@@ -3,21 +3,6 @@
 <h2 align="Left"> 💻 Estudante e Desenvolvedor Frontend|UX Design 💻 </h2> 
 <h6> Trabalho com em desenvolvimento Frontend e atualmente estou estudando os frameworks Angular ,J.S , C#. </p> 
 
-🌱 Eu estou aprendendo **Angular, React, J.S , C#** 
+🌱 Eu estou aprendendo **Angular, J.S , C#** 
 
-<h5> Minhas Linguagens <h5>   
-  <p align="left">
-    
- </p>  
-  
-  <h5> Frameworks e Libs <h5> 
-  <p align="left">  
-    
-  </p> 
-  
- 
-  <h5> UX & UI <h5> 
-    <p align="left">  
-    
-  </p>  
  
