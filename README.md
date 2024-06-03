@@ -1,8 +1,8 @@
 
 <br>
-<h1 align="center">Olá, Eu sou o Artur.</h1>
-<h2 align="center"> 👨🏾‍💻 Desenvolvedor Frontend 👨🏾‍💻 </h2>
-<h4 align="center">
+<h1 align="left">Olá, Eu sou o Vinicios</h1>
+<h2 align="left"> 👨🏾‍💻 Desenvolvedor Frontend 👨🏾‍💻 </h2>
+<h4 align="left">
   Faço parte de um grupo de entusiastas e estudantes de desenvolvimento fullback , com foco em aplicações SPA.<br>
   No momento desenvolvo em Angular 2+ e React 
   <br>
