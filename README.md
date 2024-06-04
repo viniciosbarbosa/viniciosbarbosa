@@ -86,6 +86,6 @@
 
 
 <br><br><br><br><br>
-<h5>Ultima Edição em: 26/05/2021</h5>
+<h5>Ultima Edição em: 03/06/2024</h5>
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
