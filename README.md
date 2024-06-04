@@ -4,7 +4,7 @@
 <h2 align="left">Desenvolvedor Frontend </h2>
 <h4 align="left">
   Faço parte de um grupo de entusiastas e estudantes de desenvolvimento fullback , com foco em aplicações SPA.<br>
-  No momento desenvolvo em Angular 2+ e React 
+  No momento desenvolvo em Angular 2+ , React e Nodejs
   <br>
 </h4>
 
