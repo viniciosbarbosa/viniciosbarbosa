@@ -18,7 +18,7 @@
 
 ---
 - 📚 Atualmente estou aprendendo e buscando conhecimento sobre tecnologias Frontend , Backend e mobile
-- 💪 Objetivos de futuro não muito distante: Me tornar um Desenvolvedor Fullback especialista  , frameworks Spa e resoluções mobile
+- 💪 Objetivos de futuro não muito distante: Me tornar um Desenvolvedor Fullback especialista
 
 <br>
 <br>
@@ -71,7 +71,7 @@
 ---
 <p> Para me encontrar basta falar comigo em um dos acessos </p>
 <p align="left">
-<a href="https://www.linkedin.com/in/viniciosbarbosaa/"><img src="https://img.shields.io/badge/-Artur%20Ribeiro-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/viniciosbarbosaa/"><img src="https://img.shields.io/badge/-Vinicios%20Barbosa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 
 
