@@ -69,7 +69,7 @@
 
 ### 🤝🏻 &nbsp;Onde me encontrar.
 ---
-<p> Para me encontrar basta falar comigo em um dos acessos </p>
+<p> Para me encontrar basta falar comigo este acesso </p>
 <p align="left">
 <a href="https://www.linkedin.com/in/viniciosbarbosaa/"><img src="https://img.shields.io/badge/-Vinicios%20Barbosa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
