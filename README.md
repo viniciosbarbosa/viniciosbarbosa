@@ -18,7 +18,7 @@
 
 ---
 - 📚 Atualmente estou aprendendo e buscando conhecimento sobre tecnologias Frontend , Backend e mobile
-- 💪 Objetivos de futuro não muito distante: Me tornar um Desenvolvedor Fullback especialista
+- 💪 Objetivos de futuro não muito distante: Me tornar um Desenvolvedor Fullstack.
 
 <br>
 <br>
